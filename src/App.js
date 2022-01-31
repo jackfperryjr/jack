@@ -45,7 +45,7 @@ function App() {
         <hr/>
         <div className="content-container">
           <p>This collection has been in the making for {years} years. It's me. Jack. I'm Jack. This is just a collection of 33 itty bitty pixel Jacks because I was born on March 3rd.</p>
-          <p>If you haven't come across <a href="https://opensea.io/collection/states-of-joi" target="_blank" rel="noreferrer">States of Joi</a> yet you should go check that out, too.</p>
+          <p>If you haven't come across <a href="https://statesofjoi.com" target="_blank" rel="noreferrer">States of Joi</a> yet you should go check that out, too.</p>
           <br/>
           <br/>
           <br/>
