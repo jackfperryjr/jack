@@ -35,16 +35,16 @@ function App() {
         <header>
           <div className="header-container"></div>
         </header>
-        <a href="https://opensea.io/collection/bittyjacks" target="_blank" rel="noreferrer"><div className="logo-container"></div></a>
+        <a href="https://opensea.io/collection/nonfungiblejacks" target="_blank" rel="noreferrer"><div className="logo-container"></div></a>
         <h1>
-          <a href="https://opensea.io/collection/bittyjacks" target="_blank" rel="noreferrer">Bitty Jacks</a>
+          <a href="https://opensea.io/collection/nonfungiblejacks" target="_blank" rel="noreferrer">NonFungibleJacks</a>
           <span className='pointer reaction' onClick={e => { handleReactionUpdate(e) }}>
             <i className="fas fa-thumbs-up"></i><small><span className='reaction-count'>{clicky[0].like}</span></small>
           </span>
         </h1>
         <hr/>
         <div className="content-container">
-          <p>This collection has been in the making for {years} years. It's me. Jack. I'm Jack. This is just a collection of 33 itty bitty pixel Jacks because I was born on March 3rd.</p>
+          <p>This collection has been in the making for {years} years. It's me. Jack. I'm Jack. This is just a collection of 33 unique nonfungible Jacks because I was born on March 3rd.</p>
           <p>If you haven't come across <a href="https://statesofjoi.com" target="_blank" rel="noreferrer">States of Joi</a> yet you should go check that out, too.</p>
           <br/>
           <br/>
