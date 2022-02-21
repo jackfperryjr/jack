@@ -45,14 +45,18 @@ function App() {
         <hr/>
         <div className="content-container">
           <p>This collection has been in the making for {years} years. It's me. Jack. I'm Jack. This is just a collection of 33 unique nonfungible Jacks because I was born on March 3rd.</p>
-          <p>If you haven't come across <a href="https://statesofjoi.com" target="_blank" rel="noreferrer">States of Joi</a> yet you should go check that out, too.</p>
+          <p>If you haven't come across <a href="https://opensea.io/collection/states-of-joi" target="_blank" rel="noreferrer">States of Joi</a> or <a href="https://opensea.io/collection/blockchainbetties" target="_blank" rel="noreferrer">Blockchain Betties</a> yet you should go check that out, too.</p>
           <br/>
           <br/>
           <br/>
           <p>That's all.</p>
         </div>
         <footer>
-        <p>&copy; <a href="https://github.com/jackfperryjr" target="_blank" rel="noreferrer">@jackfperryjr</a></p>
+        <p>&copy; 
+          <a href="https://twitter.com/jackfperryjr" target="_blank" rel="noreferrer">@jackfperryjr</a>&nbsp;
+          <a href="https://twitter.com/statesofjoi" target="_blank" rel="noreferrer">@statesofjoi</a>&nbsp;
+          <a href="https://twitter.com/bc_betties" target="_blank" rel="noreferrer">@bc_betties</a>
+        </p>
         </footer>
       </div>
     );
